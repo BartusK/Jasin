@@ -1,0 +1,27 @@
+.container {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+
+.naglow {
+    margin-bottom: 10px;
+}
+
+
+.suwak {
+    display: flex;
+    align-items: center;
+}
+
+
+.suwak input[type="range"] {
+    flex-grow: 1;
+    margin: 0 10px;
+}
+
+.przyciski {
+  display: flex;
+}
